@@ -25,31 +25,35 @@
 
 <a id="english"></a>
 
-This is the official Imou account on GitHub. We publish the Home Assistant integration for Imou devices, and the Python library that integration uses.
+👋 Hi. This is the official Imou account on GitHub.
 
-## Repositories
+We publish the Home Assistant integration for Imou devices, and the Python library that integration uses. Pick a repo below and take a look.
 
-- [Imou Life](https://github.com/Imou-OpenPlatform/Imou-Home-Assistant) — the Home Assistant integration, installed through HACS
-- [pyimouapi](https://github.com/Imou-OpenPlatform/Py-Imou-Open-Api) — the Python library used by that integration
+## 📦 Repositories
 
-## Questions
+- 🏠 [Imou Life](https://github.com/Imou-OpenPlatform/Imou-Home-Assistant) — the Home Assistant integration, installed through HACS
+- 🐍 [pyimouapi](https://github.com/Imou-OpenPlatform/Py-Imou-Open-Api) — the Python library used by that integration
 
-Open an issue on the repository your question is about.
+## 💬 Questions
+
+Open an issue on the repository your question is about. We'll see it.
 
 <a id="zh-hans"></a>
 
 # 乐橙开放平台
 
-这是乐橙在 GitHub 上的官方账号。我们发布乐橙设备的 Home Assistant 集成，以及这个集成使用的 Python 库。
+👋 你好，这是乐橙在 GitHub 上的官方账号。
 
-## 仓库
+我们在这里发布乐橙设备的 Home Assistant 集成，以及这个集成使用的 Python 库。下面两个仓库，挑一个进去看看就行。
 
-- [Imou Life](https://github.com/Imou-OpenPlatform/Imou-Home-Assistant) — Home Assistant 集成，通过 HACS 安装
-- [pyimouapi](https://github.com/Imou-OpenPlatform/Py-Imou-Open-Api) — 这个集成使用的 Python 库
+## 📦 仓库
 
-## 问题
+- 🏠 [Imou Life](https://github.com/Imou-OpenPlatform/Imou-Home-Assistant) — Home Assistant 集成，通过 HACS 安装
+- 🐍 [pyimouapi](https://github.com/Imou-OpenPlatform/Py-Imou-Open-Api) — 这个集成使用的 Python 库
 
-请到对应仓库开 Issue。
+## 💬 问题
+
+到对应仓库开个 Issue 就好，我们看得到。
 ```
 
 ## 不包含
